@@ -1,6 +1,6 @@
-# Workshop: Become a plumber! Desinging and implementing the delivery pipeline as code
+# Workshop: Becoming a plumber! Designing and implementing the delivery pipeline as code
 
-This repository contains the code for the workshop: "Become a plumber! Desinging and implementing the delivery pipeline as code".
+This repository contains the code for the workshop: "Becoming a plumber! Desinging and implementing the delivery pipeline as code".
 
 # Contents
 
