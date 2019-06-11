@@ -10,7 +10,9 @@ It originally was described here: https://sparktutorials.github.io/2016/06/26/aj
 ## Building the application
 
 To build the application:
-
+```
+mvn clean package
+```
 
 ## Provisioning the application with Docker
 
